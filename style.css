@@ -37,11 +37,11 @@ body {
   margin: 15rem 0;
 }
 .heading-container__heading--clarusway {
-  background-color: rgb(30, 48, 42);
+  background-color: rgb(21, 55, 42);
   padding: 2rem;
   border-top-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
-  outline: 0.5rem inset rgb(43, 97, 89);
+  outline: 0.5rem inset rgb(144, 152, 127);
   outline-offset: 1rem;
   text-transform: uppercase;
   line-height: 5rem;
@@ -51,7 +51,7 @@ body {
   padding: 2rem;
   border-top-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
-  outline: 0.5rem inset rgb(43, 97, 89);
+  outline: 0.5rem inset rgb(192,200,175);
   outline-offset: 1rem;
   text-transform: uppercase;
   line-height: 5rem;
